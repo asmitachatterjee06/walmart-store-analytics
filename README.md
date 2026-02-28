@@ -67,5 +67,4 @@ The dataset contains weekly sales data for multiple Walmart stores along with:
 
 ---
 
-## 📂 Project Structure
 
